@@ -3,6 +3,8 @@ body {
   font-family: "Josefin Sans", Helvetica, Arial, sans-serif;
   color: #af957c;
   background-color: #bd5c01;
+  color: #fff;
+  background-color: #051c33;
 }
 
 .forkongithub a {
@@ -45,6 +47,7 @@ h2 {
   font-size: 2em;
   margin: 52px 0 40px;
   text-transform: capitalize;
+  color: #fff;
   color: #af957c;
 }
 
@@ -52,6 +55,7 @@ h1 {
   font-family: "Lobster", "Josefin Sans", Helvetica, Arial, sans-serif;
   font-size: 4em;
   color: #af957c;
+  color: #fff;
 }
 
 ul {
@@ -89,6 +93,7 @@ a {
 }
 
 .active {
+  background-color: #fff;
   background-color: #af957c;
   cursor: pointer;
 }
@@ -112,6 +117,7 @@ input {
 .main-nav a {
   display: block;
   background: #af957c;
+  background: #000;
   border-radius: 3px;
   padding: 5px;
   color: #fff;
@@ -119,6 +125,7 @@ input {
 
 .main-nav .active,
 .main-nav a:hover {
+  background-color: #4d5b6b;
   background-color: #af957c;
 }
 
